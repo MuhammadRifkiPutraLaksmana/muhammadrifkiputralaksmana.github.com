@@ -113,8 +113,11 @@ footer {
     border-radius: 3px;
     border-bottom: 1px solid gainsboro;
     padding-top: 15px;
-    padding-bottom: 15px;  
+    padding-bottom: 15px;
+ background-color:#ff0000;
+ color:white; 
 }
+
 /* akhir */
 
 
